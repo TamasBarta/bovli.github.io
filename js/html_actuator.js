@@ -9,8 +9,7 @@ function HTMLActuator() {
   this.score = 0;
 }
 
-dogeSayings = ['remek', 'szuper', 'politika!', 'fidesz', 'szavazz rám', 'még', 'még még', 'még még még', 'kövér?', 'bizalom', 'hatalom' ,'pénz',
-'toljad!', 'szép!',]
+dogeSayings = ['pappa!', 'kulcot hozd vissza!', 'őőőőőőőőőőő', '']
 
 HTMLActuator.prototype.actuate = function (grid, metadata) {
   var self = this;
